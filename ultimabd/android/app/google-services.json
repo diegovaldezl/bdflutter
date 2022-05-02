@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802659116898",
+    "project_id": "bdflutter-c59a7",
+    "storage_bucket": "bdflutter-c59a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802659116898:android:10d293becfbb8285426e3b",
+        "android_client_info": {
+          "package_name": "com.example.ultimabd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802659116898-0asmp43uin5cen77c4lqbgfan5htteki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArnQvlwRRgQOYkeBRZErz-c6TR03pD6Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802659116898-0asmp43uin5cen77c4lqbgfan5htteki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
